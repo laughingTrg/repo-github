@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+first file on branch-1
+=======
 it's first file of branch-1
+>>>>>>> branch-2-1
